@@ -1,0 +1,3 @@
+测试结果：
+打开server以及3个client,并输入指令，只有前两个client能够收到密码，第三个client不能收到，
+当关闭前两个中的一个client时，第三个client可以正确收到密码。
